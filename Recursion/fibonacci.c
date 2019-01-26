@@ -10,8 +10,4 @@ int main(){
 	scanf("%d",&num);
 	fibo(num,0,1);
 	return 0;
-
-
-
-
 }
